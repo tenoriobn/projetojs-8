@@ -38,7 +38,7 @@ start.addEventListener("click", () => {
                 alert("Limite de horas cronometradas excedido!!!")
             }
 
-        }, 100);
+        }, 1000);
 });
 
 // Evento de click para o botão reset
