@@ -1,0 +1,12 @@
+:root {
+    /* colors */
+    --bg-color: #1a1f39;
+    --color-primaria: #fce509;
+    --color-secundaria: #5b5d6c;
+
+    --branco: #ffffff;
+    --preto: #000000;
+
+    /* font */
+    --montserrat: 'Montserrat', sans-serif;
+}
